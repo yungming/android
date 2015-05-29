@@ -1,6 +1,6 @@
 Name  | Demo
 ---  | ---
-[calculator](https://github.com/yungming/android-calculator.git) | 
+[calculator](https://github.com/yungming/android-calculator.git) |  <img src="/img/calculator.JPG" width="100%">
 [ASCII](https://github.com/yungming/android-ASCII.git)| 
 [SpeechRecognizer](https://github.com/yungming/android-Recognizer.git)| 
 [Android-DialogEffects](https://github.com/yungming/Android-DialogEffects.git)| 
