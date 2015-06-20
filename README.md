@@ -6,4 +6,5 @@ Name  | Demo
 [numbercallapp](https://github.com/yungming/android-numbercallapp.git)| <img src="/img/numbercallapp.gif" width="30%">
 [Android-DialogEffects](https://github.com/yungming/Android-DialogEffects.git)| <img src="/img/DialogEffects.gif" width="30%">
 [SQLite](https://github.com/yungming/android-SQLite.git)| <img src="/img/SQLite1.png" width="20%"><img src="/img/SQLite2.png" width="20%"><img src="/img/SQLite3.png" width="20%"><img src="/img/SQLite4.png" width="20%"><img src="/img/SQLite5.png" width="20%">
+[SQLiteV2](https://github.com/yungming/android-SQLiteV2.git)| 多照片，程式優化
 [android-ui](https://github.com/yungming/awesome-android-ui.git)| android 界面
